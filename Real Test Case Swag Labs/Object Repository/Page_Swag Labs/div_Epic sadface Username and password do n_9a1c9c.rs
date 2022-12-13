@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Epic sadface Username and password do n_9a1c9c</name>
+   <tag></tag>
+   <elementGuidId>9e99e2de-5ef3-46b0-b327-3900a435ad8c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79647488-76b6-461b-b28d-4e06989c337a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_wrapper</value>
+      <webElementGuid>80c4b5f5-deec-47da-aa20-a0190d2e13dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Epic sadface: Username and password do not match any user in this serviceAccepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_userPassword for all users:secret_sauce</value>
+      <webElementGuid>e2c2bb80-9122-4991-9e2a-30e0a2d599a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;login_wrapper&quot;]</value>
+      <webElementGuid>f29e041a-425b-4e2f-81a1-f4e37dbe6ee9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]</value>
+      <webElementGuid>dd04fc88-e8ae-4291-8810-93424a106e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>ac523963-80a0-4fc2-bc7a-643ff1ccdcab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Epic sadface: Username and password do not match any user in this serviceAccepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_userPassword for all users:secret_sauce' or . = 'Epic sadface: Username and password do not match any user in this serviceAccepted usernames are:standard_userlocked_out_userproblem_userperformance_glitch_userPassword for all users:secret_sauce')]</value>
+      <webElementGuid>e98604bd-9233-44e9-8b86-c90452a8dc4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

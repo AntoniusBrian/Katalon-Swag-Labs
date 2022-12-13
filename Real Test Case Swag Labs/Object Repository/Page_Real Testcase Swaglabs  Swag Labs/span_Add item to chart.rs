@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add item to chart</name>
+   <tag></tag>
+   <elementGuidId>f1800adb-c80b-4340-b4da-e18456ad7813</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scroll-container-default']/div/div/div/div[2]/div/div[2]/div[10]/div[8]/div/div/div/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>93b0c85c-769b-4626-aec7-019cd2432ff8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kr-span</value>
+      <webElementGuid>5041897f-ac07-48ce-a320-26ed34e3289f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add item to chart</value>
+      <webElementGuid>d1e21cb0-c298-4217-ad0a-3995b82d3000</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll-container-default&quot;)/div[@class=&quot;F2clv2Bn w9mOGWSw YDGNwFiI&quot;]/div[@class=&quot;VuI2FvsR&quot;]/div[@class=&quot;fTZaMvkW&quot;]/div[@class=&quot;UigI0tfj&quot;]/div[@class=&quot;jIXZS52Z cbzMZ6zH active MwyAQHN6 ZRrDROYM nlxOrxDB gjzUOZZj&quot;]/div[@class=&quot;s_3L6O5h kr-row-container qs2GL70L&quot;]/div[@class=&quot;hVp9At_N kr-row&quot;]/div[@class=&quot;TpNQ0boZ kr-cell EB_mGMKO wSCT8ojG EHWmI2qc&quot;]/div[@class=&quot;UigI0tfj&quot;]/div[@class=&quot;E_znYACg CTYilBmu&quot;]/div[@class=&quot;fderA03N hu8TEfLP v05VhvM1 kr-slate-editor kr-slate-editor-is-directly-focused&quot;]/div[@class=&quot;kr-line kr-olist kr-listitem block-level-1 Z7ErDMsI hWfcQjvY Mie3yr1b&quot;]/span[@class=&quot;kr-span&quot;]</value>
+      <webElementGuid>ebdac4d0-e768-461f-a4f6-3bca125c6092</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scroll-container-default']/div/div/div/div[2]/div/div[2]/div[10]/div[8]/div/div/div/div[4]/span</value>
+      <webElementGuid>bcce637d-9d3b-482c-9948-2b4eb4381ed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Login'])[8]/following::span[2]</value>
+      <webElementGuid>4565a14e-8af5-4c9f-9e38-89b0113a4a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='login using standart_account'])[1]/following::span[4]</value>
+      <webElementGuid>d2ad0a97-dfb1-4a8c-a61f-1115911b2941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert First Name,Last Name,and Zip Code'])[1]/preceding::span[2]</value>
+      <webElementGuid>373d466a-7900-4acb-92a0-1bf31d83b353</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click Checkout'])[1]/preceding::span[4]</value>
+      <webElementGuid>df0b1156-fff0-4efc-abcf-bbf38013e34d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add item to chart']/parent::*</value>
+      <webElementGuid>7e6a1e95-e090-46de-9fa8-0eefbdd465a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div[4]/span</value>
+      <webElementGuid>eeff2c11-be14-4636-b25a-fb6edd1a34bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add item to chart' or . = 'Add item to chart')]</value>
+      <webElementGuid>467964c2-1874-4fb0-86fe-75dcebd44eca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
